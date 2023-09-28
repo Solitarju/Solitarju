@@ -2,7 +2,7 @@
 Hello, I'm Sol. I very slowly write very bad code.  
 Website: [solitarju.uk](https://solitarju.uk/)  
 Email: admin@solitarju.uk  
-Discord: notsolitarju  
+Discord: solitarju  
 
 I have experience in many languages, frameworks, networking, game engines etc. (most to least experience):  
 - Node.JS (Along with many modules/frameworks)

@@ -6,7 +6,7 @@ Need to reach me? Here are my contacts:
 - Email: <admin@solitarju.uk>  
 - Discord: solitarju  
 
-I've worked on my own various open-source projects & closed-source personal projects and strive for creating efficient and reliable solutions, but I'm still improving day to day!
+I've worked on my own various open-source projects & closed-source personal projects and strive for creating efficient and reliable solutions.
 
 I'm a software & web developer with experience in various technologies. My main areas of expertise include:
 
@@ -14,26 +14,30 @@ I'm a software & web developer with experience in various technologies. My main 
 
 1. JavaScript (Node.js, Bun, Vanilla JS)
 2. TypeScript
-3. C# (.NET Core, .NET Framework)
-4. Lua
+3. Rust
+4. C# (.NET Core, .NET Framework)
+5. Lua
 
 ## 🌐 Web Technologies
 
-- HTML & CSS (without frontend frameworks)
-- Cloudflare & DNS Management
-- CDNs (Content Delivery Network)
+- HTML & CSS (Without Frontend Frameworks)
+- Cloudflare
+- CDNs (Content Delivery Networks)
 
 ## 🛰️ Networking & Cloud Services
 
 - Server/Client Networking Model
+- Server Signing for TLS connections using SSL certificates (Primarily CF Origin CA Certificates)
 - HTTP(S) & REST APIs
 - WebSockets
+- Webhooks
 - OSC (Open Sound Control)
 - Google Cloud
 - Amazon Web Services
 
 ## 🗃️ Database Management
 
+- SQL Relational Databases
 - Sequelize (SQLite3)
 - Service-Based Databases (.NET C#)
 

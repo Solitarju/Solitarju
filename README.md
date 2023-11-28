@@ -12,11 +12,10 @@ I'm a software & web developer with experience in various technologies. My main 
 
 ## 💻 Programming Languages
 
-1. JavaScript (Node.js, Bun, Vanilla JS)
-2. TypeScript
-3. Rust
-4. C# (.NET Core, .NET Framework)
-5. Lua
+1. JavaScript (Node.js, Vanilla JS)
+2. Rust
+3. C# (.NET Core, .NET Framework)
+4. Lua
 
 ## 🌐 Web Technologies
 

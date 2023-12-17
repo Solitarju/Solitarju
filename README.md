@@ -6,8 +6,6 @@ Need to reach me? Here are my contacts:
 - Email: <admin@solitarju.uk>  
 - Discord: solitarju  
 
-I've worked on my own various open-source projects & closed-source personal projects and strive for creating efficient and reliable solutions.
-
 I'm a software & web developer with experience in various technologies. My main areas of expertise include:
 
 ## 💻 Programming Languages
@@ -48,8 +46,6 @@ I'm a software & web developer with experience in various technologies. My main 
 - Cloudflare Workers & Pages
 - Windows 10
 - Linux
-- FiveM
-- Unity Game Engine
 - Insomnia (API client)
 
 ## 🔗 Stats & Badges

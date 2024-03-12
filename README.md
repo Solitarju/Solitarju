@@ -52,7 +52,7 @@ I'm a software & web developer with experience in various technologies. My main 
 <div align="center">
 <img alt="Discord" src="https://img.shields.io/discord/1163384360314081342?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FER3Z7NBzvv">
 <img alt="GitHub" src="https://img.shields.io/github/license/Solitarju/vrchat-api-library?style=for-the-badge&logo=github&label=GitHub&link=https%3A%2F%2Fgithub.com%2FSolitarju">
-<img alt="NPM" src="https://img.shields.io/npm/l/vrchat-api-library?style=for-the-badge&logo=npm&label=npm&link=https%3A%2F%2Fwww.npmjs.com%2F~solitarju">
+<img alt="NPM" src="https://img.shields.io/npm/l/vrchat-api-library?style=for-the-badge&logo=npm&label=NPM&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fvrchat-api-library">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solitarju&show_icons=true&count_private=true)](https://github.com/Solitarju)
 </div>

@@ -17,9 +17,51 @@ I'm a software & web developer with experience in various technologies. My main 
 
 ## 🌐 Web Technologies
 
-- HTML & CSS (Without Frontend Frameworks)
-- Cloudflare
-- CDNs (Content Delivery Networks)
+- HTML, CSS & JS (Without Frontend Frameworks)
+- WebAssembly (WASM)
+
+## 📚 Libraries
+
+- JavaScript Libraries
+  - ElectronJS
+  - DiscordJS
+  - ExpressJS
+  - WS (WebSocket Library)
+  - node-fetch
+  - Sequelize
+  - Axios
+  - node-osc
+  - brain.js
+  - itty-router
+  - @Discord/embedded-app-sdk (Discord Activities)
+  - ejs
+  - nodemon
+  - sqlite3
+  - fs
+  - puppeteer
+  - dotenv
+  - uuid
+- Rust Libraries
+  - Shuttle.rs
+  - tokio, tokio-websockets, tokio-rustls
+  - mini-redis
+  - futures
+  - serde
+  - tracing
+  - serenity, poise
+  - rand
+  - discord-rich-presence
+  - raylib-rs
+  - symphonia
+  - rodio
+  - reqwest
+  - tungstenite
+- C# Libraries
+  - discord.net
+  - newtonsoft.json
+  - CitizenFX (FiveM)
+- C Libraries
+  - raylib
 
 ## 🛰️ Networking & Cloud Services
 
@@ -31,6 +73,8 @@ I'm a software & web developer with experience in various technologies. My main 
 - OSC (Open Sound Control)
 - Google Cloud
 - Amazon Web Services
+- Cloudflare
+- Content Delivery Networks (CDNs)
 
 ## 🗃️ Database Management
 
@@ -44,9 +88,14 @@ I'm a software & web developer with experience in various technologies. My main 
 - Visual Studio 2022
 - Git & GitHub
 - Cloudflare Workers & Pages
+- Cloudflare Wrangler
+- Shuttle.rs
 - Windows 10
 - Linux
-- Insomnia (API client)
+- Insomnia (Restful API testing client)
+- ssh
+- W64Devkit (Mini-GW64, GCC)
+- emscripten (WASM)
 
 ## 🔗 Stats & Badges
 <div align="center">

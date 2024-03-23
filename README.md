@@ -1,4 +1,4 @@
-# ♡ Solitarju ♡
+# Solitarju
 
 Need to reach me? Here are my contacts:
 

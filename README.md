@@ -56,6 +56,8 @@ I'm a software & web developer with experience in various technologies. My main 
   - rodio
   - reqwest
   - tungstenite
+  - windows/win32
+  - winapi
 - C# Libraries
   - discord.net
   - newtonsoft.json

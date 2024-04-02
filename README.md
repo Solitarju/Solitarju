@@ -1,12 +1,18 @@
 # Solitarju
 
-Need to reach me? Here are my contacts:
+Wish to contact me? You can find me at one of these locations:
 
-- Website: [solitarju.uk](https://solitarju.uk/) (WIP)  
 - Email: <admin@solitarju.uk>  
 - Discord: solitarju  
+- Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
-I'm a software & web developer with experience in various technologies. My main areas of expertise include:
+## About Me
+
+My main hobby is programming, I spend most of my free time working on personal projects and things that I'm interested in. I have also been teaching my friend programming for a few years, who has built great skill and I would consider as good a programmer as myself. (@Sinmysize)  
+
+I also love music a lot, one of my favourite artists is Aurora (if you couldn't tell, I love her), I'm almost always listening to music, whether I'm programming or just doing other things.
+
+And to the business, I'm a software & web developer with experience in various technologies. My main areas of expertise include:
 
 ## 💻 Programming Languages
 
@@ -67,16 +73,15 @@ I'm a software & web developer with experience in various technologies. My main 
 
 ## 🛰️ Networking & Cloud Services
 
-- Server/Client Networking Model
+- Server/Client Programming
 - Server Signing for TLS connections using SSL certificates (Primarily CF Origin CA Certificates)
 - HTTP(S) & REST APIs
 - WebSockets
 - Webhooks
-- OSC (Open Sound Control)
+- Content Delivery Networks
+- Cloudflare
 - Google Cloud
 - Amazon Web Services
-- Cloudflare
-- Content Delivery Networks (CDNs)
 
 ## 🗃️ Database Management
 

@@ -6,13 +6,7 @@ Wish to contact me? You can find me at one of these locations:
 - Discord: solitarju  
 - Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
-## About Me
-
-My main hobby is programming, I spend most of my free time working on personal projects and things that I'm interested in. I have also been teaching my friend programming for a few years, who has built great skill and I would consider as good a programmer as myself. ([@Sinmysize](https://github.com/Sinmysize))  
-
-I also love music a lot, one of my favourite artists is Aurora (if you couldn't tell, I love her), I'm almost always listening to music, whether I'm programming or just doing other things.
-
-And to the business, I'm a software & web developer with experience in various technologies. My main areas of expertise include:
+I'm a software & web developer with experience in various technologies. My main areas of expertise include:
 
 ## 💻 Programming Languages
 

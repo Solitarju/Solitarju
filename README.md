@@ -55,6 +55,8 @@ I'm a software & web developer with experience in various technologies. My main 
   - symphonia
   - rodio
   - reqwest
+  - tide
+  - axum
   - tungstenite
   - windows/win32
   - winapi

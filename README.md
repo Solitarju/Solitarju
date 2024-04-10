@@ -55,6 +55,7 @@ I'm a software & web developer with experience in various technologies. My main 
   - symphonia
   - rodio
   - reqwest
+  - actix-web, actix
   - tide
   - axum
   - tungstenite

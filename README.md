@@ -93,6 +93,7 @@ I'm a software & web developer with experience in various technologies. My main 
 - Git & GitHub
 - Cloudflare Workers & Pages
 - Cloudflare Wrangler
+- Cloudflared
 - Shuttle.rs
 - Windows 10
 - Linux

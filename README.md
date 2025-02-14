@@ -6,101 +6,86 @@ Wish to contact me? You can find me at one of these locations:
 - Discord: solitarju  
 - Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
-I'm a software & web developer with experience in various technologies. My main areas of expertise include:
+I'm a software developer who started out with frontend technologies (NodeJS, HTML, CSS), but made the transition to lower-level programming (C++, Rust) focusing on building the most performant, reliable, and secure (&& cryptographically secure) software:
 
-## 💻 Programming Languages
+## 💻 Programming Languages (experience descending order)
 
-1. JavaScript (Node.js, Vanilla JS)
-2. Rust
-3. C# (.NET Core, .NET Framework)
+1. Rust
+2. Typescript, JavaScript (Node.js, Vanilla JS)
+3. C++ / C
 4. Lua
+5. C# (.NET Core, .NET Framework)
 
 ## 🌐 Web Technologies
 
-- HTML, CSS & JS (Without Frontend Frameworks)
+- HTML, CSS, TS & JS
+- Vite
+- Svelte
 - WebAssembly (WASM)
 
 ## 📚 Libraries
 
-- JavaScript Libraries
-  - ElectronJS
-  - DiscordJS
-  - ExpressJS
-  - WS (WebSocket Library)
-  - node-fetch
-  - Sequelize
-  - Axios
-  - node-osc
-  - brain.js
-  - itty-router
-  - @Discord/embedded-app-sdk (Discord Activities)
-  - ejs
-  - nodemon
-  - sqlite3
-  - fs
-  - puppeteer
-  - dotenv
-  - uuid
 - Rust Libraries
-  - Shuttle.rs
+  - std
   - tokio, tokio-websockets, tokio-rustls
-  - mini-redis
-  - futures
-  - serde
-  - tracing
-  - serenity, poise
   - rand
-  - discord-rich-presence
-  - raylib-rs
-  - symphonia
-  - rodio
+  - serde, serde_json
+  - chrono
+  - actix, actix-web, actix-web-actors
+  - tauri
+  - mongodb
+  - argon2
+  - chacha20-poly1305
+  - futures
+  - tungstenite, tokio-tungstenite
   - reqwest
-  - actix-web, actix
-  - tide
+  - dotenvy
+  - tracing, tracing-subscriber
+  - dialoguer
+  - serenity, poise
   - axum
-  - tungstenite
+  - mini-redis
+  - raylib-rs
   - windows/win32
   - winapi
-- C# Libraries
-  - discord.net
-  - newtonsoft.json
-  - CitizenFX (FiveM)
-- C Libraries
-  - raylib
+
+I primarily work in Rust so that is all I will list here, however I am confident in the other languages & technologies I presented above and their ecosystem of tooling and packages.
 
 ## 🛰️ Networking & Cloud Services
 
-- Server/Client Programming
-- Server Signing for TLS connections using SSL certificates (Primarily CF Origin CA Certificates)
-- HTTP(S) & REST APIs
-- WebSockets
+- Performant && Secure HTTP(S) -- or any server -- Server Programming
+- Real-time WebSockets
 - Webhooks
 - Content Delivery Networks
 - Cloudflare
+- Oracle Cloud Infrastructure
 - Google Cloud
 - Amazon Web Services
 
 ## 🗃️ Database Management
 
-- SQL Relational Databases
-- Sequelize (SQLite3)
+- NoSQL Databases (MongoDB)
+- SQL Relational Databases (SQLite)
 - Service-Based Databases (.NET C#)
 
 ## 🛠️ Tools & Environments
 
+- Windows 10
+- Linux Ubuntu
 - Visual Studio Code
 - Visual Studio 2022
 - Git & GitHub
+- Cargo
+- NPM
+- g++ / gcc
+- Insomnia (HTTP API testing client)
+- ssh
 - Cloudflare Workers & Pages
 - Cloudflare Wrangler
 - Cloudflared
-- Shuttle.rs
-- Windows 10
-- Linux
-- Insomnia (Restful API testing client)
-- ssh
-- W64Devkit (Mini-GW64, GCC)
+- W64Devkit (Mini-GW64)
 - emscripten (WASM)
+- IDA (Reverse-engineering, Debugging)
 
 ## 🔗 Stats & Badges
 <div align="center">

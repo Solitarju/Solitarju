@@ -1,4 +1,4 @@
-# Solitarju
+# Sol ☆
 
 Wish to contact me? You can find me at one of these locations:
 
@@ -6,7 +6,7 @@ Wish to contact me? You can find me at one of these locations:
 - Discord: solitarju  
 - Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
-I'm a software developer who started out with frontend technologies (NodeJS, HTML, CSS), but made the transition to lower-level programming (C++, Rust) focusing on building the most performant, reliable, and secure (&& cryptographically secure) software:
+I'm a full-stack software engineer who started out with frontend (NodeJS, HTML, CSS), but made the transition to lower-level programming (C++, Rust) focusing on building the most performant, reliable, and secure software possible:
 
 ## 💻 Programming Languages (experience descending order)
 
@@ -53,11 +53,11 @@ I primarily work in Rust so that is all I will list here, however I am confident
 
 ## 🛰️ Networking & Cloud Services
 
-- Performant && Secure HTTP(S) -- or any server -- Server Programming
+- Performant && Secure Server Programming (HTTPS, WS, UDP, TCP, unrelated but also IPC)
 - Real-time WebSockets
 - Webhooks
-- Content Delivery Networks
-- Cloudflare
+- CDN's
+- Cloudflare (DNS, Domain Registration, Workers, Pages, Wrangler, R2, Cloudflared, Tunnels)
 - Oracle Cloud Infrastructure
 - Google Cloud
 - Amazon Web Services
@@ -70,20 +70,20 @@ I primarily work in Rust so that is all I will list here, however I am confident
 
 ## 🛠️ Tools & Environments
 
+- Arch Linux (My main OS)
+- Linux Ubuntu (My server OS)
 - Windows 10
-- Linux Ubuntu
-- Visual Studio Code
+- Visual Studio Code, VSCodium
 - Visual Studio 2022
 - Git & GitHub
 - Cargo
 - NPM
-- g++ / gcc
-- Insomnia (HTTP API testing client)
+- gcc
+- Insomnium (Privacy-fork API testing client)
 - ssh
 - Cloudflare Workers & Pages
 - Cloudflare Wrangler
 - Cloudflared
-- W64Devkit (Mini-GW64)
 - emscripten (WASM)
 - IDA (Reverse-engineering, Debugging)
 

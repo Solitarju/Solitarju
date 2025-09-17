@@ -1,4 +1,4 @@
-# Sol ☆
+# Faye ☆
 
 Wish to contact me? You can find me at one of these locations:
 

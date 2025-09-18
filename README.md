@@ -89,5 +89,6 @@ I currently program in Rust so that is all I will list here, however I am confid
 
 ## Statistics
 <div align="center">
+  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solitarju&show_icons=true&count_private=true)](https://github.com/Solitarju)
 </div>

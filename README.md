@@ -8,22 +8,23 @@ Wish to contact me? You can find me at one of these locations:
 
 I'm a full-stack software engineer who started out with frontend (NodeJS, HTML, CSS), but made the transition to lower-level programming (C++, Rust) focusing on building the most performant, reliable, and secure software possible:
 
-## 💻 Programming Languages (experience descending order)
+## Programming Languages
 
 1. Rust
 2. Typescript, JavaScript (Node.js, Vanilla JS)
 3. C++ / C
 4. Lua
-5. C# (.NET Core, .NET Framework)
 
-## 🌐 Web Technologies
+## Web Technologies
 
-- HTML, CSS, TS & JS
+- HTML, CSS
 - Vite
-- Svelte
+- Svelte & SvelteKit
+- Tailwind
 - WebAssembly (WASM)
+- Web Workers
 
-## 📚 Libraries
+## Libraries
 
 - Rust Libraries
   - std
@@ -49,29 +50,28 @@ I'm a full-stack software engineer who started out with frontend (NodeJS, HTML, 
   - windows/win32
   - winapi
 
-I primarily work in Rust so that is all I will list here, however I am confident in the other languages & technologies I presented above and their ecosystem of tooling and packages.
+I currently program in Rust so that is all I will list here, however I am confident in the other languages & technologies I presented above and their ecosystem of tooling and packages.
 
-## 🛰️ Networking & Cloud Services
+## Networking & Cloud Services
 
-- Performant && Secure Server Programming (HTTPS, WS, UDP, TCP, unrelated but also IPC)
-- Real-time WebSockets
+- Performant & Secure Server Programming (HTTPS, WS, UDP, TCP, IPC)
+- WebSockets
 - Webhooks
-- CDN's
+- CDNs
 - Cloudflare (DNS, Domain Registration, Workers, Pages, Wrangler, R2, Cloudflared, Tunnels)
 - Oracle Cloud Infrastructure
 - Google Cloud
 - Amazon Web Services
 
-## 🗃️ Database Management
+## Database Management
 
 - NoSQL Databases (MongoDB)
 - SQL Relational Databases (SQLite)
-- Service-Based Databases (.NET C#)
 
-## 🛠️ Tools & Environments
+## Tools & Environments
 
-- Arch Linux (My main OS)
-- Linux Ubuntu (My server OS)
+- Arch Linux (my main OS)
+- Linux Ubuntu (my server OS)
 - Windows 10
 - Visual Studio Code, VSCodium
 - Visual Studio 2022
@@ -79,7 +79,7 @@ I primarily work in Rust so that is all I will list here, however I am confident
 - Cargo
 - NPM
 - gcc
-- Insomnium (Privacy-fork API testing client)
+- Insomnium (privacy-fork of API testing client)
 - ssh
 - Cloudflare Workers & Pages
 - Cloudflare Wrangler
@@ -87,7 +87,7 @@ I primarily work in Rust so that is all I will list here, however I am confident
 - emscripten (WASM)
 - IDA (Reverse-engineering, Debugging)
 
-## 🔗 Stats & Badges
+## Statistics
 <div align="center">
 <img alt="Discord" src="https://img.shields.io/discord/1163384360314081342?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FER3Z7NBzvv">
 <img alt="GitHub" src="https://img.shields.io/github/license/Solitarju/vrchat-api-library?style=for-the-badge&logo=github&label=GitHub&link=https%3A%2F%2Fgithub.com%2FSolitarju">

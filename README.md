@@ -28,7 +28,7 @@
 - Svelte
 - Astro
 - Tailwind
-- WebAssembly (WASM)
+- WebAssembly
 
 ## Libraries
 
@@ -120,7 +120,8 @@
 - Arch Linux
 - Ubuntu Linux
 - Windows 10
-- Git & GitHub
+- Git
+- GitHub
 - VSCodium
 - Visual Studio Code
 - Visual Studio 2022

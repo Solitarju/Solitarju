@@ -5,82 +5,130 @@
 </div>
 
 - Email: <admin@solitarju.uk>  
-- Discord: solitarju  
+- Discord: fayeioadk  
 - Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
 ## Programming Languages
 
-1. Rust
-2. Typescript, JavaScript (Node.js, Vanilla JS)
-3. C++ / C
-4. Lua
-5. C#
-6. Java
-7. Python
+*including, but not limited to:*
+
+- Rust
+- Typescript
+- JavaScript
+- C
+- C++
+- Lua
 
 ## Web Technologies
 
-- HTML, CSS
+- HTML
+- CSS
 - Vite
-- Svelte & SvelteKit
+- SvelteKit
+- Svelte
+- Astro
 - Tailwind
 - WebAssembly (WASM)
-- Web Workers
 
 ## Libraries
 
-- Rust Libraries
+*most commonly including, but not limited to:*
+
+- Rust
   - std
-  - tokio, tokio-websockets, tokio-rustls
-  - rand
-  - serde, serde_json
-  - chrono
-  - actix, actix-web, actix-web-actors
-  - tauri
-  - mongodb
-  - argon2
-  - chacha20-poly1305
-  - futures
-  - tungstenite, tokio-tungstenite
-  - reqwest
-  - dotenvy
-  - tracing, tracing-subscriber
-  - dialoguer
-  - serenity, poise
-  - axum
-  - mini-redis
-  - raylib-rs
+  - Async
+    - tokio
+    - async-std
+    - pollster
+    - futures
+  - Performance
+    - ringbuf
+    - rayon
+  - Cryptographic
+    - rand
+    - rustcrypto
+    - argon2
+    - chacha20poly1305
+    - x25519-dalek
+    - ed25519-dalek
+    - opaque-ke
+    - hkdf
+    - sha2
+    - hmac
+    - blake3
+    - rustls
+  - Networking
+    - tokio
+    - tokio-tungstenite
+    - actix
+    - actix-web
+    - actix-ws
+    - actix-files
+    - actix-web-actors
+    - lettre
+    - stalwart
+  - Database
+    - mongodb
+    - sqlx
+  - Serialization
+    - serde
+    - serde_json
+    - serde_with
+    - hex (this is actually an Encoder / Decoder, sorry for lying, please forgive me!!)
+    - bson
+  - Graphics
+    - winit
+    - wgpu
+  - Multimedia
+    - image
+    - cpal
+    - rubato
+    - nnnoiseless
+    - opus
+  - Development Dependencies & Debugging
+    - glib
+    - tracing
+    - tracing-subscriber
+    - dotenvy
+    - anyhow
+    - log
+    - env_logger
+  - Other
+    - chrono
+    - bytemuck
+    - dialoguer
+    - validator
+    - aws-sdk-s3
+    - aws-config
+    - slint
+    - tauri
 
-## Networking & Cloud Services
+## Cloud Services
 
-- Performant & Secure Server Programming (HTTP(S), WS, UDP, TCP, IPC)
-- WebSockets
-- Webhooks
-- CDNs
-- Cloudflare (DNS, Domain Registration, Workers, Pages, Wrangler, R2, Cloudflared, Tunnels)
+- Cloudflare
 - Oracle Cloud Infrastructure
 - Google Cloud
 - Amazon Web Services
 
-## Database Management
+## Databases
 
-- NoSQL Databases (MongoDB)
-- SQL Relational Databases (SQLite)
+- Mongodb
+- SQL
 
 ## Tools & Environments
 
-- Git & GitHub
-- Arch Linux (main OS)
-- Linux Ubuntu (server OS)
+- Arch Linux
+- Ubuntu Linux
 - Windows 10
-- Visual Studio Code, VSCodium
+- Git & GitHub
+- VSCodium
+- Visual Studio Code
 - Visual Studio 2022
 - Cargo
 - ssh
 - NPM
 - gcc
-- Insomnium (privacy-fork of Insomnia)
-- Cloudflare Workers & Pages
+- Insomnium
 - Cloudflare Wrangler
 - Cloudflared
-- IDA (Reverse-engineering, Debugging)
+- IDA

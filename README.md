@@ -4,7 +4,7 @@
 
 </div>
 
-- Email: <admin@solitarju.uk>  
+- Email: <swnw7mmjntze.decrease427@passinbox.com>  
 - Discord: fayeioadk  
 - Website: [solitarju.uk](https://solitarju.uk/) (WIP, no contacts yet)
 
